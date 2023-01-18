@@ -1,3 +1,3 @@
-# JavaCalculator_AndroidMaster_app1
+# Calculadora Java Android
 
 Primeiro App do curso Android Master. Módulo Java.
